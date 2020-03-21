@@ -160,7 +160,7 @@
                     "include": "#tag-stuff"
                 },
                 {
-                    "contentName": "source.stylus",
+                    "contentName": "source.css.stylus",
                     "begin": "(>)",
                     "beginCaptures": {
                         "1": {
@@ -170,7 +170,7 @@
                     "end": "(?=</style>)",
                     "patterns": [
                         {
-                            "include": "source.stylus"
+                            "include": "source.css.stylus"
                         }
                     ]
                 }
