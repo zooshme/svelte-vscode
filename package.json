@@ -1,6 +1,6 @@
 {
     "name": "svelte-vscode",
-    "version": "0.9.3",
+    "version": "0.9.4",
     "description": "Svelte language support for VS Code",
     "main": "dist/extension.js",
     "scripts": {
