@@ -1,4 +1,6 @@
 # Changelog
+## 0.9.4
+- Update stylus contentName and patterns
 
 ## 0.9.3
 
